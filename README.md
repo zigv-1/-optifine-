@@ -12,7 +12,7 @@
 .如果有什么疑问可以加入我的`discore #optifine`频道。[Discord加入](https://discord.gg/8zVCeBXe) 
 # 自定义optifine.cape 支持
 图片最高支持`32×64`以上的倍数。支持鞘翅。 
-# 支持持最新服务端
+# 支持最新服务端
 .optifine 1.18.2+
  
 .forge+optifine 1.18.2+
